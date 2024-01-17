@@ -9,7 +9,7 @@ Recognize that the data strcture is a stack.
 6. And then check if the top of the list matches the incoming parenthesis.
 ## Complexity
 Time complexity:
-O(n)
+O(n)  
 Loops through the entire string once
 ## Code
 ````

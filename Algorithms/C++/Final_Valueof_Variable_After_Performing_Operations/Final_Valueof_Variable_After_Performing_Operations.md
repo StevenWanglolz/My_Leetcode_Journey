@@ -6,7 +6,7 @@
 2. Perform the calculations based on the situation.
 ## Complexity
 Time complexity:
-O(n)
+O(n)  
 Loops through the entire list once
 
 ## Code
