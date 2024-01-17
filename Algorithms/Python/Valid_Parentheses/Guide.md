@@ -10,7 +10,7 @@ Recognize that the data strcture is a stack.
 ## Complexity
 Time complexity:
 O(n)
-
+Loops through the entire string once
 ## Code
 ````
 class Solution(object):

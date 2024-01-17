@@ -10,6 +10,6 @@ class Solution(object):
                 (c == "]" and stack[-1] != "[") or\
                 (c == "}" and stack[-1] != "{"):
                     return False
-            stack.pop()
+                stack.pop()
         return not stack
                 
