@@ -6,5 +6,5 @@ This repo is used to record my journey on leetcode.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Python](./Algorithms/Python/Final_Valueof_Variable_After_Performing_Operations/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Python](./Algorithms/Python/Valid_Parentheses/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
 |2011|[Final_Valueof_Variable_After_Performing_Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)|[Python](./Algorithms/Python/Final_Valueof_Variable_After_Performing_Operations/), [C++](./Algorithms/C++/Final_Valueof_Variable_After_Performing_Operations/)|Easy|
