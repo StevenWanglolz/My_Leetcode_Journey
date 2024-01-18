@@ -1,3 +1,5 @@
+***This solution is an interpretation of someone else's.  
+I did not solve this problem in time**
 ## Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 Recognize that the data structure required is a stack

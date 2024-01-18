@@ -1,3 +1,6 @@
+***This solution is an interpretation of someone else's.  
+I did not solve this problem in time***
+
 ## Intuition
 Recognize that the data strcture is a stack.
 ## Approach

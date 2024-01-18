@@ -1,15 +1,14 @@
-class Solution(object):
-    def isValid(self, s):
-        stack = []
-        for c in s:
-            if c in"([{":
-                stack.append(c)
-            else:
-                if not stack or \
-                (c == ")" and stack[-1] != "(") or\
-                (c == "]" and stack[-1] != "[") or\
-                (c == "}" and stack[-1] != "{"):
-                    return False
-                stack.pop()
-        return not stack
-                
+class Solution {
+public:
+    vector<int> findWordsContaining(vector<string>& words, char x) {
+        vector<int> v;
+        count = 0;
+
+        for(auto it = words.begin(); it != words.end; ++it){
+            if(*it.contains(x)){
+                v[count] = it;
+                count++;
+            }
+        }
+    }
+};

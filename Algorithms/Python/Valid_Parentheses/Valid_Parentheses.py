@@ -12,4 +12,4 @@ class Solution(object):
                     return False
                 stack.pop()
         return not stack
-                
+                    
