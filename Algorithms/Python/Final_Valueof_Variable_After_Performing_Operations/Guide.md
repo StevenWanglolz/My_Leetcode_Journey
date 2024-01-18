@@ -7,8 +7,8 @@
 3. Depending on on the language, remember to add break for every case. In this case, I'm using Python, which does not require a break statement for every case.
 ## Complexity
 Time complexity:
-O(n)
-
+O(n)  
+Loops through the entire list once
 ## Code
 ````
 class Solution:
