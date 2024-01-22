@@ -53,7 +53,7 @@ Let's analyze the space complexity of the code:
 4. **Overall Space Complexity:**
    - The overall space complexity is the sum of the space complexities of individual components. Therefore, the space complexity of your code is O(n), where n is the length of the longer vector between `garbage` and `travel`.
 
-In summary, the space complexity of your code is linear, mainly due to the input vectors (`garbage` and `travel`). The rest of the variables and iterators have constant space complexity.
+In summary, the space complexity of the code is linear, mainly due to the input vectors (`garbage` and `travel`). The rest of the variables and iterators have constant space complexity.
 # Code
 ```
 class Solution {
