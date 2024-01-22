@@ -2,7 +2,8 @@
 1. Identify all four situations
 2. Create an integer to perform operation on it based on the situtation
 ## Approach
-1. Note that in C++, switch only supports int and enum, so here we use a simple if-else statement.
+1. Note that in C++, switch only supports int and enum, so here we use a simple if-else statement.  
+   
 2. Perform the calculations based on the situation.
 ## Complexity
 - Time complexity:

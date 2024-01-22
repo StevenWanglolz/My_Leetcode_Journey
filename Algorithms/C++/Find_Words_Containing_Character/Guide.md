@@ -3,9 +3,12 @@
 Iterate through the entire list
 # Approach
 <!-- Describe your approach to solving the problem. -->
-1. Create a vector to store the indices.
-2. use for(auto it...) to iterate through the list.
-3. Here's the key. When using the find function with the "it" iterator, do not derefernce it with "*it" becuase of precedence issues. Use "it->find()" instead.
+1. Create a vector to store the indices.  
+   
+2. use for(auto it...) to iterate through the list.  
+   
+3. Here's the key. When using the find function with the "it" iterator, do not derefernce it with "*it" becuase of precedence issues. Use "it->find()" instead.  
+   
 4. Use the "push_back" function to add the indices to the vector under the right condition.
 # Complexity
 - Time complexity:  

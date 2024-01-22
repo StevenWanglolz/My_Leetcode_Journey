@@ -5,10 +5,14 @@
 # Approach
 <!-- Describe your approach to solving the problem. -->
 1. Create an integer to store the maximum number of words and a count to count how many spaces are in the sentence.
-2. Initiate count to 1 and max to 0.
-3. Iterate through the list.
-4. Iterate through each sentence.
-5. Use if(character == ' ') to determine if it's a space. Remember to use single quotation marks, as it is a char not a string.
+2. Initiate count to 1 and max to 0.  
+   
+3. Iterate through the list.  
+   
+4. Iterate through each sentence.  
+   
+5. Use if(character == ' ') to determine if it's a space. Remember to use single quotation marks, as it is a char not a string.  
+   
 6. Compare count with max after each iteration of a sentence.
 # Complexity
 - Time complexity:

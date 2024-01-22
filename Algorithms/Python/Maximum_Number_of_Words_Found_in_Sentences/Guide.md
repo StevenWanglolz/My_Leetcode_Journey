@@ -3,9 +3,12 @@
 Use the split function to tokenize the sentences.
 # Approach
 <!-- Describe your approach to solving the problem. -->
-1. Create an integer to store the maximum number of sentences.
-2. Loop through the entire list.
-3. Use the split function to tokenize the sentence.
+1. Create an integer to store the maximum number of sentences.  
+   
+2. Loop through the entire list.  
+   
+3. Use the split function to tokenize the sentence.  
+   
 4. Compare the current number with max everytime.
 # Complexity
 - Time complexity:
