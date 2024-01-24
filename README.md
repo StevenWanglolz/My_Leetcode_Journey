@@ -1,7 +1,7 @@
-# My_Leetcode_Journey
+# My Leetcode Journey
 - I share my solutions and thoughts for every Leetcode question I solve.  
 
-- Some solutions are my interpretations of other people's solution.  
+- Some solutions are my interpretations of other people's solution because I could not solve the problem in time.  
 Not every solution is written by me.  
 - If I find a better solution, I will include it into my repository including the link to the original solution. 
  
