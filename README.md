@@ -5,7 +5,7 @@
 Not every solution is written by me.  
 - If I find a better solution, I will include it into my repository including the link to the original solution. 
  
-This repo is used to record my journey on leetcode.
+- This repo is used to record my journey on leetcode.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
