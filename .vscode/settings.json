@@ -1,14 +1,46 @@
 {
-    "files.associations": {
-        "array": "cpp",
-        "deque": "cpp",
-        "string": "cpp",
-        "unordered_map": "cpp",
-        "vector": "cpp",
-        "string_view": "cpp",
-        "initializer_list": "cpp",
-        "ostream": "cpp",
-        "algorithm": "cpp",
-        "iostream": "cpp"
-    }
+  "files.associations": {
+    "array": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "ostream": "cpp",
+    "algorithm": "cpp",
+    "iostream": "cpp"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/*.git": true,
+    "Algorithms\\C++/Check_If_Two_String_Arrays_are_Equivalent": true,
+    "Algorithms\\C++/Concatenation_of_Array": true,
+    "Algorithms\\C++/Count_Items_Matching_a_Rule": true,
+    "Algorithms\\C++/Defanging_an_IP_Address": true,
+    "Algorithms\\C++/Final_Valueof_Variable_After_Performing_Operations": true,
+    "Algorithms\\C++/Find_Words_Containing_Character": true,
+    "Algorithms\\C++/Maximum_Number_of_Words_Found_in_Sentences": true,
+    "Algorithms\\C++/Minimum_Amount_of_Time_to_Collect_Garbage": true,
+    "Algorithms\\C++/Shuffle_String": true,
+    "Algorithms\\C++/Split_a_String_in_Balanced_Strings": true,
+    "Algorithms\\C++/Valid_Parentheses": true,
+    "Algorithms\\Python/Check_If_Two_String_Arrays_are_Equivalent": true,
+    "Algorithms\\Python/Concatenation_of_Array": true,
+    "Algorithms\\Python/Count_Items_Matching_a_Rule": true,
+    "Algorithms\\Python/Defanging_an_IP_Address": true,
+    "Algorithms\\Python/Final_Valueof_Variable_After_Performing_Operations": true,
+    "Algorithms\\Python/Find_Words_Containing_Character": true,
+    "Algorithms\\Python/Maximum_Number_of_Words_Found_in_Sentences": true,
+    "Algorithms\\Python/Minimum_Amount_of_Time_to_Collect_Garbage": true,
+    "Algorithms\\Python/Shuffle_String": true,
+    "Algorithms\\Python/Split_a_String_in_Balanced_Strings": true,
+    "Algorithms\\Python/Valid_Parentheses": true
+  },
+  "explorerExclude.backup": {}
 }
