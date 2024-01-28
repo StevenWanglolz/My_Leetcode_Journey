@@ -40,7 +40,9 @@
     "Algorithms\\Python/Minimum_Amount_of_Time_to_Collect_Garbage": true,
     "Algorithms\\Python/Shuffle_String": true,
     "Algorithms\\Python/Split_a_String_in_Balanced_Strings": true,
-    "Algorithms\\Python/Valid_Parentheses": true
+    "Algorithms\\Python/Valid_Parentheses": true,
+    "Algorithms\\Python/Truncate_Sentence": true,
+    "Algorithms\\C++/Truncate_Sentence": true
   },
   "explorerExclude.backup": {}
 }
