@@ -42,7 +42,9 @@
     "Algorithms\\Python/Split_a_String_in_Balanced_Strings": true,
     "Algorithms\\Python/Valid_Parentheses": true,
     "Algorithms\\Python/Truncate_Sentence": true,
-    "Algorithms\\C++/Truncate_Sentence": true
+    "Algorithms\\C++/Truncate_Sentence": true,
+    "Algorithms\\C++/Cells_in_a_Range_on_an_Excel_Sheet": true,
+    "Algorithms\\Python/Cells_in_a_Range_on_an_Excel_Sheet": true
   },
   "explorerExclude.backup": {}
 }
