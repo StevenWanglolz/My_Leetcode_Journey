@@ -44,7 +44,9 @@
     "Algorithms\\Python/Truncate_Sentence": true,
     "Algorithms\\C++/Truncate_Sentence": true,
     "Algorithms\\C++/Cells_in_a_Range_on_an_Excel_Sheet": true,
-    "Algorithms\\Python/Cells_in_a_Range_on_an_Excel_Sheet": true
+    "Algorithms\\Python/Cells_in_a_Range_on_an_Excel_Sheet": true,
+    "Algorithms\\C++/Decode_The_Message": true,
+    "Algorithms\\Python/Decode_The_Message": true
   },
   "explorerExclude.backup": {}
 }
