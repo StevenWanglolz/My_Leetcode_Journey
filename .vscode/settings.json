@@ -46,7 +46,9 @@
     "Algorithms\\C++/Cells_in_a_Range_on_an_Excel_Sheet": true,
     "Algorithms\\Python/Cells_in_a_Range_on_an_Excel_Sheet": true,
     "Algorithms\\C++/Decode_The_Message": true,
-    "Algorithms\\Python/Decode_The_Message": true
+    "Algorithms\\Python/Decode_The_Message": true,
+    "Algorithms\\C++/Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers": true,
+    "Algorithms\\Python/Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers": true
   },
   "explorerExclude.backup": {}
 }
