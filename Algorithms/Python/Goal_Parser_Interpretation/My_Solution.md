@@ -25,7 +25,7 @@ Here is a table that summarizes the space complexity of the code for different i
 |---|---|
 | n | O(1) |
 # Code
-```
+```Python []
 class Solution:
     def interpret(self, command: str) -> str:
         o = ""

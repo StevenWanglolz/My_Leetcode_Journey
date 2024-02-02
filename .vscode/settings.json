@@ -50,7 +50,9 @@
     "Algorithms\\C++/Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers": true,
     "Algorithms\\Python/Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers": true,
     "Algorithms\\C++/Jewels_And_Stones": true,
-    "Algorithms\\Python/Jewels_And_Stones": true
+    "Algorithms\\Python/Jewels_And_Stones": true,
+    "Algorithms\\Python/Goal_Parser_Interpretation": true,
+    "Algorithms\\C++/Goal_Parser_Interpretation": true
   },
   "explorerExclude.backup": {}
 }
