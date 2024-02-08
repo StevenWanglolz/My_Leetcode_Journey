@@ -9,7 +9,8 @@
     "initializer_list": "cpp",
     "ostream": "cpp",
     "algorithm": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "system_error": "cpp"
   },
   "files.exclude": {
     "**/.git": true,
@@ -52,7 +53,9 @@
     "Algorithms\\C++/Jewels_And_Stones": true,
     "Algorithms\\Python/Jewels_And_Stones": true,
     "Algorithms\\Python/Goal_Parser_Interpretation": true,
-    "Algorithms\\C++/Goal_Parser_Interpretation": true
+    "Algorithms\\C++/Goal_Parser_Interpretation": true,
+    "Algorithms\\C++/Encode_And_Decode_TinyURL": true,
+    "Algorithms\\Python/Encode_And_Decode_TinyURL": true
   },
   "explorerExclude.backup": {}
 }
