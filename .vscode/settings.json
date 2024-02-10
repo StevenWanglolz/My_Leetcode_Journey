@@ -10,7 +10,8 @@
     "ostream": "cpp",
     "algorithm": "cpp",
     "iostream": "cpp",
-    "system_error": "cpp"
+    "system_error": "cpp",
+    "*.tcc": "cpp"
   },
   "files.exclude": {
     "**/.git": true,
@@ -55,7 +56,9 @@
     "Algorithms\\Python/Goal_Parser_Interpretation": true,
     "Algorithms\\C++/Goal_Parser_Interpretation": true,
     "Algorithms\\C++/Encode_And_Decode_TinyURL": true,
-    "Algorithms\\Python/Encode_And_Decode_TinyURL": true
+    "Algorithms\\Python/Encode_And_Decode_TinyURL": true,
+    "Algorithms\\C++/Number of Laser_Beams_in_a_Bank": true,
+    "Algorithms\\Python/Number of Laser_Beams_in_a_Bank": true
   },
   "explorerExclude.backup": {}
 }

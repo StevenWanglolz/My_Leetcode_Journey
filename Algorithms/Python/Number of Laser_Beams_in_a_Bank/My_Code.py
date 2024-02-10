@@ -6,7 +6,7 @@ class Solution:
         output = 0
         for i in range(row):
             if bank[i] != "0"*col: 
-                l.append(i) # * Record all indices
+                l.append(i) # * Keep track of all indices
         for i in range(len(l)-1):
             a, b = 0, 0
             for c in bank[l[i]]:
@@ -15,5 +15,5 @@ class Solution:
             for c in bank[l[i+1]]:
                 if c == "1":
                     b += 1
-            output += a*b
+            output += a*b # * Add the number of lasers
         return output
