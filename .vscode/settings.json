@@ -58,7 +58,9 @@
     "Algorithms\\C++/Encode_And_Decode_TinyURL": true,
     "Algorithms\\Python/Encode_And_Decode_TinyURL": true,
     "Algorithms\\C++/Number of Laser_Beams_in_a_Bank": true,
-    "Algorithms\\Python/Number of Laser_Beams_in_a_Bank": true
+    "Algorithms\\Python/Number of Laser_Beams_in_a_Bank": true,
+    "Algorithms\\C++/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box": true,
+    "Algorithms\\Python/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box": true
   },
   "explorerExclude.backup": {}
 }
