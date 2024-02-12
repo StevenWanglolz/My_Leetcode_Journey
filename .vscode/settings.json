@@ -11,7 +11,8 @@
     "algorithm": "cpp",
     "iostream": "cpp",
     "system_error": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "map": "cpp"
   },
   "files.exclude": {
     "**/.git": true,
@@ -62,7 +63,9 @@
     "Algorithms\\C++/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box": true,
     "Algorithms\\Python/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box": true,
     "Algorithms\\C++/Build_Array_from_Permutation": true,
-    "Algorithms\\Python/Build_Array_from_Permutation": true
+    "Algorithms\\Python/Build_Array_from_Permutation": true,
+    "Algorithms\\C++/Number_of_Good_Pairs": true,
+    "Algorithms\\Python/Number_of_Good_Pairs": true
   },
   "explorerExclude.backup": {}
 }
