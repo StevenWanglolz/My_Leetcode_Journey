@@ -65,7 +65,9 @@
     "Algorithms\\C++/Build_Array_from_Permutation": true,
     "Algorithms\\Python/Build_Array_from_Permutation": true,
     "Algorithms\\C++/Number_of_Good_Pairs": true,
-    "Algorithms\\Python/Number_of_Good_Pairs": true
+    "Algorithms\\Python/Number_of_Good_Pairs": true,
+    "Algorithms\\C++/Shuffle_the_Array": true,
+    "Algorithms\\Python/Shuffle_the_Array": true
   },
   "explorerExclude.backup": {}
 }
