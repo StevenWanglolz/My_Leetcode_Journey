@@ -1,9 +1,3 @@
-# Intuition
-<!-- Describe your first thoughts on how to solve this problem. -->
-
-# Approach
-<!-- Describe your approach to solving the problem. -->
-
 # Complexity
 
 - Time complexity:
@@ -43,11 +37,6 @@ Overall, the dominant contributor to space complexity is the matrix `self.m`. Th
 # Code
 
 ```
-#include <iostream>
-#include <vector>
-
-using namespace std;
-
 class SubrectangleQueries {
 
 public:
