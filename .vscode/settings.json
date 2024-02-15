@@ -70,8 +70,8 @@
     "Algorithms\\Python/Shuffle_the_Array": true,
     "Algorithms\\C++/Find_The_Original_Array_of_Prefix_Xor": true,
     "Algorithms\\Python/Find_The_Original_Array_of_Prefix_Xor": true,
-    "Algorithms\\C++/Subrectangle_Queries": false,
-    "Algorithms\\Python/Subrectangle_Queries": false
+    "Algorithms\\C++/Subrectangle_Queries": true,
+    "Algorithms\\Python/Subrectangle_Queries": true
   },
   "explorerExclude.backup": {}
 }
