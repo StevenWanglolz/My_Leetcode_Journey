@@ -71,7 +71,9 @@
     "Algorithms\\C++/Find_The_Original_Array_of_Prefix_Xor": true,
     "Algorithms\\Python/Find_The_Original_Array_of_Prefix_Xor": true,
     "Algorithms\\C++/Subrectangle_Queries": true,
-    "Algorithms\\Python/Subrectangle_Queries": true
+    "Algorithms\\Python/Subrectangle_Queries": true,
+    "Algorithms\\Python/Widest Vertical Area BetweenTwo_Points_Containing_No_Points": true,
+    "Algorithms\\C++/Widest Vertical Area BetweenTwo_Points_Containing_No_Points": true
   },
   "explorerExclude.backup": {}
 }
