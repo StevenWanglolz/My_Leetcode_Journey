@@ -109,7 +109,9 @@
     "Algorithms\\C++/Richest_Customer_Wealth": true,
     "Algorithms\\Python/Richest_Customer_Weatlth": true,
     "Algorithms\\Python/Group_the_People_Given_the_Group_Size_They_Belong_To": true,
-    "Algorithms\\C++/Group_the_People_Given_the_Group_Size_They_Belong_To": true
+    "Algorithms\\C++/Group_the_People_Given_the_Group_Size_They_Belong_To": true,
+    "Algorithms\\Python/Number_of_Employees_Who_Met_the_Target": true,
+    "Algorithms\\C++/Number_of_Employees_Who_Met_the_Target": true
   },
   "explorerExclude.backup": {}
 }
