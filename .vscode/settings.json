@@ -113,7 +113,9 @@
     "Algorithms\\Python/Number_of_Employees_Who_Met_the_Target": true,
     "Algorithms\\C++/Number_of_Employees_Who_Met_the_Target": true,
     "Algorithms\\C++/Convert_an_Array_Into_a_2D_Array_With_Conditions": true,
-    "Algorithms\\Python/Convert_an_Array_Into_a_2D_Array_With_Conditions": true
+    "Algorithms\\Python/Convert_an_Array_Into_a_2D_Array_With_Conditions": true,
+    "Algorithms\\Python/How_Many_Numbers_Are_Smaller_Than_the_Current_Number": true,
+    "Algorithms\\C++/How_Many_Numbers_Are_Smaller_Than_the_Current_Number": true
   },
   "explorerExclude.backup": {}
 }
