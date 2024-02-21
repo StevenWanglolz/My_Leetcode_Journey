@@ -117,7 +117,9 @@
     "Algorithms\\Python/How_Many_Numbers_Are_Smaller_Than_the_Current_Number": true,
     "Algorithms\\C++/How_Many_Numbers_Are_Smaller_Than_the_Current_Number": true,
     "Algorithms\\Python/Design_an_Ordered_Stream": true,
-    "Algorithms\\C++/Design_an_Ordered_Stream": true
+    "Algorithms\\C++/Design_an_Ordered_Stream": true,
+    "Algorithms\\C++/Arithmetic Subarrays": true,
+    "Algorithms\\Python/Arithmetic Subarrays": true
   },
   "explorerExclude.backup": {}
 }
