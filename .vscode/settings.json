@@ -119,7 +119,9 @@
     "Algorithms\\Python/Design_an_Ordered_Stream": true,
     "Algorithms\\C++/Design_an_Ordered_Stream": true,
     "Algorithms\\C++/Arithmetic Subarrays": true,
-    "Algorithms\\Python/Arithmetic Subarrays": true
+    "Algorithms\\Python/Arithmetic Subarrays": true,
+    "Algorithms\\Python/Number_of_Arithmetic_Triplets": true,
+    "Algorithms\\C++/Number_of_Arithmetic_Triplets": true
   },
   "explorerExclude.backup": {}
 }
