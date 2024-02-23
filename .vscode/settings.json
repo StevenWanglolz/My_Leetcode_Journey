@@ -121,7 +121,9 @@
     "Algorithms\\C++/Arithmetic Subarrays": true,
     "Algorithms\\Python/Arithmetic Subarrays": true,
     "Algorithms\\Python/Number_of_Arithmetic_Triplets": true,
-    "Algorithms\\C++/Number_of_Arithmetic_Triplets": true
+    "Algorithms\\C++/Number_of_Arithmetic_Triplets": true,
+    "Algorithms\\Python/Count_Number_of_Pairs_With_Absolute_Difference_K": true,
+    "Algorithms\\C++/Count_Number_of_Pairs_With_Absolute_Difference_K": true
   },
   "explorerExclude.backup": {}
 }
