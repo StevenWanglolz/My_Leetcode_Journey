@@ -123,7 +123,9 @@
     "Algorithms\\Python/Number_of_Arithmetic_Triplets": true,
     "Algorithms\\C++/Number_of_Arithmetic_Triplets": true,
     "Algorithms\\Python/Count_Number_of_Pairs_With_Absolute_Difference_K": true,
-    "Algorithms\\C++/Count_Number_of_Pairs_With_Absolute_Difference_K": true
+    "Algorithms\\C++/Count_Number_of_Pairs_With_Absolute_Difference_K": true,
+    "Algorithms\\C++/Check_if_the_Sentence_Is_Pangram": true,
+    "Algorithms\\Python/Check_if_the_Sentence_Is_Pangram": true
   },
   "explorerExclude.backup": {}
 }
