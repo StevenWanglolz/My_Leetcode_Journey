@@ -125,7 +125,11 @@
     "Algorithms\\Python/Count_Number_of_Pairs_With_Absolute_Difference_K": true,
     "Algorithms\\C++/Count_Number_of_Pairs_With_Absolute_Difference_K": true,
     "Algorithms\\C++/Check_if_the_Sentence_Is_Pangram": true,
-    "Algorithms\\Python/Check_if_the_Sentence_Is_Pangram": true
+    "Algorithms\\Python/Check_if_the_Sentence_Is_Pangram": true,
+    "Algorithms\\Python/Count_the_Number_of_Consistent_Strings": true,
+    "Algorithms\\C++/Count_the_Number_of_Consistent_Strings": true,
+    "Algorithms\\C++/Unique_Morse_Code_Words": true,
+    "Algorithms\\Python/Unique_Morse_Code_Words": true
   },
   "explorerExclude.backup": {}
 }
