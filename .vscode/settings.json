@@ -131,7 +131,9 @@
     "Algorithms\\C++/Unique_Morse_Code_Words": true,
     "Algorithms\\Python/Unique_Morse_Code_Words": true,
     "Algorithms\\Python/Subarrays_Distinct_Element_Sum_of_Squares_I": true,
-    "Algorithms\\C++/Subarrays_Distinct_Element_Sum_of_Squares_I": true
+    "Algorithms\\C++/Subarrays_Distinct_Element_Sum_of_Squares_I": true,
+    "Algorithms\\C++/Find_Common_Elements_Between_Two_Arrays": true,
+    "Algorithms\\Python/Find_Common_Elements_Between_Two_Arrays": true
   },
   "explorerExclude.backup": {}
 }
