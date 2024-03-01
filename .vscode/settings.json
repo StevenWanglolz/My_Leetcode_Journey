@@ -133,7 +133,9 @@
     "Algorithms\\Python/Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "Algorithms\\C++/Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "Algorithms\\C++/Find_Common_Elements_Between_Two_Arrays": true,
-    "Algorithms\\Python/Find_Common_Elements_Between_Two_Arrays": true
+    "Algorithms\\Python/Find_Common_Elements_Between_Two_Arrays": true,
+    "Algorithms\\Python/Minimum_Number_of+Steps_to_Make_Two_Strings_Anagram": true,
+    "Algorithms\\C++/Minimum_Number_of+Steps_to_Make_Two_Strings_Anagram": true
   },
   "explorerExclude.backup": {}
 }
