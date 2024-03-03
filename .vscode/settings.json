@@ -135,7 +135,11 @@
     "Algorithms\\C++/Find_Common_Elements_Between_Two_Arrays": true,
     "Algorithms\\Python/Find_Common_Elements_Between_Two_Arrays": true,
     "Algorithms\\Python/Minimum_Number_of+Steps_to_Make_Two_Strings_Anagram": true,
-    "Algorithms\\C++/Minimum_Number_of+Steps_to_Make_Two_Strings_Anagram": true
+    "Algorithms\\C++/Minimum_Number_of+Steps_to_Make_Two_Strings_Anagram": true,
+    "Algorithms\\C++/Rings_and_Rods": true,
+    "Algorithms\\Python/Rings_and_Rods": true,
+    "Algorithms\\Python/Find_Maximum_Number_of_String_Pairs": true,
+    "Algorithms\\C++/Find_Maximum_Number_of_String_Pairs": true
   },
   "explorerExclude.backup": {}
 }
