@@ -151,7 +151,9 @@
     "Algorithms\\Python/Partition_Array_According_to_Given_Pivot": true,
     "Algorithms\\C++/Partition_Array_According_to_Given_Pivot": true,
     "Algorithms\\Python/Find_First_Palindromic_String_in_the_Array": true,
-    "Algorithms\\C++/Find_First_Palindromic_String_in_the_Array": true
+    "Algorithms\\C++/Find_First_Palindromic_String_in_the_Array": true,
+    "Algorithms\\C++/Rearrange_Array_Elements_by_Sign": true,
+    "Algorithms\\Python/Rearrange_Array_Elements_by_Sign": true
   },
   "explorerExclude.backup": {}
 }
