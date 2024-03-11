@@ -44,7 +44,8 @@
     "numbers": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "stack": "cpp"
   },
   "files.exclude": {
     "**/.git": true,
@@ -153,7 +154,9 @@
     "Algorithms\\Python/Find_First_Palindromic_String_in_the_Array": true,
     "Algorithms\\C++/Find_First_Palindromic_String_in_the_Array": true,
     "Algorithms\\C++/Rearrange_Array_Elements_by_Sign": true,
-    "Algorithms\\Python/Rearrange_Array_Elements_by_Sign": true
+    "Algorithms\\Python/Rearrange_Array_Elements_by_Sign": true,
+    "Algorithms\\Python/Reverse_Words_in_a_String_III": true,
+    "Algorithms\\C++/Reverse_Words_in_a_String_III": true
   },
   "explorerExclude.backup": {}
 }
