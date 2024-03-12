@@ -156,7 +156,9 @@
     "Algorithms\\C++/Rearrange_Array_Elements_by_Sign": true,
     "Algorithms\\Python/Rearrange_Array_Elements_by_Sign": true,
     "Algorithms\\Python/Reverse_Words_in_a_String_III": true,
-    "Algorithms\\C++/Reverse_Words_in_a_String_III": true
+    "Algorithms\\C++/Reverse_Words_in_a_String_III": true,
+    "Algorithms\\Python/Flipping_an_Image": true,
+    "Algorithms\\C++/Flipping_an_Image": true
   },
   "explorerExclude.backup": {}
 }
