@@ -158,7 +158,9 @@
     "Algorithms\\Python/Reverse_Words_in_a_String_III": true,
     "Algorithms\\C++/Reverse_Words_in_a_String_III": true,
     "Algorithms\\Python/Flipping_an_Image": true,
-    "Algorithms\\C++/Flipping_an_Image": true
+    "Algorithms\\C++/Flipping_an_Image": true,
+    "Algorithms\\C++/Minimize_Maximum_Pair_in_Array": true,
+    "Algorithms\\Python/Minimize_Maximum_Pair_in_Array": true
   },
   "explorerExclude.backup": {}
 }
