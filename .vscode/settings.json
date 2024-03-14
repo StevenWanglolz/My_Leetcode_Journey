@@ -160,7 +160,9 @@
     "Algorithms\\Python/Flipping_an_Image": true,
     "Algorithms\\C++/Flipping_an_Image": true,
     "Algorithms\\C++/Minimize_Maximum_Pair_in_Array": true,
-    "Algorithms\\Python/Minimize_Maximum_Pair_in_Array": true
+    "Algorithms\\Python/Minimize_Maximum_Pair_in_Array": true,
+    "Algorithms\\C++/Lexicographically_Smallest_Palindrome": true,
+    "Algorithms\\Python/Lexicographically_Smallest_Palindrome": true
   },
   "explorerExclude.backup": {}
 }
