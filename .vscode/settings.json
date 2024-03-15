@@ -162,7 +162,9 @@
     "Algorithms\\C++/Minimize_Maximum_Pair_in_Array": true,
     "Algorithms\\Python/Minimize_Maximum_Pair_in_Array": true,
     "Algorithms\\C++/Lexicographically_Smallest_Palindrome": true,
-    "Algorithms\\Python/Lexicographically_Smallest_Palindrome": true
+    "Algorithms\\Python/Lexicographically_Smallest_Palindrome": true,
+    "Algorithms\\C++/Reverse_Prefix_of_Word": true,
+    "Algorithms\\Python/Reverse_Prefix_of_Word": true
   },
   "explorerExclude.backup": {}
 }
