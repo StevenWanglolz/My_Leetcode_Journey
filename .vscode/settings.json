@@ -164,7 +164,9 @@
     "Algorithms\\C++/Lexicographically_Smallest_Palindrome": true,
     "Algorithms\\Python/Lexicographically_Smallest_Palindrome": true,
     "Algorithms\\C++/Reverse_Prefix_of_Word": true,
-    "Algorithms\\Python/Reverse_Prefix_of_Word": true
+    "Algorithms\\Python/Reverse_Prefix_of_Word": true,
+    "Algorithms\\C++/Partition_Labels": true,
+    "Algorithms\\Python/Partition_Labels": true
   },
   "explorerExclude.backup": {}
 }
