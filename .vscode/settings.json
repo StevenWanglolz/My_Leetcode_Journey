@@ -166,7 +166,11 @@
     "Algorithms\\C++/Reverse_Prefix_of_Word": true,
     "Algorithms\\Python/Reverse_Prefix_of_Word": true,
     "Algorithms\\C++/Partition_Labels": true,
-    "Algorithms\\Python/Partition_Labels": true
+    "Algorithms\\Python/Partition_Labels": true,
+    "Algorithms\\C++/Merge_Strings_Alternately": true,
+    "Algorithms\\Python/Merge_Strings_Alternately": true,
+    "Algorithms\\C++/DI_String_Match": true,
+    "Algorithms\\Python/DI_String_Match": true
   },
   "explorerExclude.backup": {}
 }
