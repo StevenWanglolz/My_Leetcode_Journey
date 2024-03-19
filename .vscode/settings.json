@@ -170,7 +170,9 @@
     "Algorithms\\C++/Merge_Strings_Alternately": true,
     "Algorithms\\Python/Merge_Strings_Alternately": true,
     "Algorithms\\C++/DI_String_Match": true,
-    "Algorithms\\Python/DI_String_Match": true
+    "Algorithms\\Python/DI_String_Match": true,
+    "Algorithms\\C++/Reverse_String": true,
+    "Algorithms\\Python/Reverse_String": true
   },
   "explorerExclude.backup": {}
 }
