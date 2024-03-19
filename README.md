@@ -13,6 +13,7 @@
 |#|Title|Tags|Solution|Difficulty |
 |----|----|----|----|----|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String|[Python](./Algorithms/Python/Valid_Parentheses/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|Two pointers|[Python](./Algorithms/Python/Reverse_String/), [C++](./Algorithms/C++/Reverse_String/j)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|Hash table|[Python](./Algorithms/Python/Encode_And_Decode_TinyURL/), [C++](./Algorithms/C++/Encode_And_Decode_TinyURL/)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|Two pointers, string, (stack)|[Python](./Algorithms/Python/Reverse_Words_in_a_String_III/), [C++](./Algorithms/C++/Reverse_Words_in_a_String_III/)|Easy|
 |(F)763|[Partion Labels](https://leetcode.com/problems/partition-labels/description/)|Hashmaps, two pointers|[Python](./Algorithms/Python/Partition_Labels/), [C++](./Algorithms/C++/Partition_Labels/)|Medium|
