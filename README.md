@@ -20,6 +20,7 @@
 |771|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Hash table|[Python](./Algorithms/Python/Jewels_And_Stones/), [C++](./Algorithms/C++/Jewels_And_Stones/)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)||[Python](./Algorithms/Python/Unique_Morse_Code_Words/), [C++](./Algorithms/C++/Unique_Morse_Code_Words/)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Python](./Algorithms/Python/Flipping_an_Image/), [C++](./Algorithms/C++/Flipping_an_Image/)|array, two pointers, bit manipulation, matrix|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|Two pointers|[Python](./Algorithms/Python/Sort_Array_By_Parity/), [C++](./Algorithms/C++/Sort_Array_By_Parity/)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/description/)|Two pointers, string|[Python](./Algorithms/Python/DI_String_Match/), [C++](./Algorithms/C++/DI_String_Match/)|Easy|
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)||[Python](./Algorithms/Python/Defanging_an_IP_Address/)[C++](./Algorithms/C++/Defanging_an_IP_Address/)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/)| |[Python](./Algorithms/Python/Split_a_String_in_Balanced_Strings/), [C++](./Algorithms/C++/Split_a_String_in_Balanced_Strings/)|Easy|
