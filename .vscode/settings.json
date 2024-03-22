@@ -174,7 +174,11 @@
     "Algorithms\\C++/Reverse_String": true,
     "Algorithms\\Python/Reverse_String": true,
     "Algorithms\\Python/Remove_Palindromic_Subsequences": true,
-    "Algorithms\\C++/Remove_Palindromic_Subsequences": true
+    "Algorithms\\C++/Remove_Palindromic_Subsequences": true,
+    "Algorithms\\C++/Sort_Array_By_Parity": true,
+    "Algorithms\\Python/Sort_Array_By_Parity": true,
+    "Algorithms\\Python/Intersection_of_Two_Arrays": true,
+    "Algorithms\\C++/Intersection_of_Two_Arrays": true
   },
   "explorerExclude.backup": {}
 }
