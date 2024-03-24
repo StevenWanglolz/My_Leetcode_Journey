@@ -180,7 +180,9 @@
     "Algorithms\\Python/Intersection_of_Two_Arrays": true,
     "Algorithms\\C++/Intersection_of_Two_Arrays": true,
     "Algorithms\\C++/Merge_Two_2D_Arrays_by_Summing_Values": true,
-    "Algorithms\\Python/Merge_Two_2D_Arrays_by_Summing_Values": true
+    "Algorithms\\Python/Merge_Two_2D_Arrays_by_Summing_Values": true,
+    "Algorithms\\C++/Squares_of_a_Sorted_Array": true,
+    "Algorithms\\Python/Squares_of_a_Sorted_Array": true
   },
   "explorerExclude.backup": {}
 }
