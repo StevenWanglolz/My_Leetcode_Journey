@@ -182,7 +182,9 @@
     "Algorithms\\C++/Merge_Two_2D_Arrays_by_Summing_Values": true,
     "Algorithms\\Python/Merge_Two_2D_Arrays_by_Summing_Values": true,
     "Algorithms\\C++/Squares_of_a_Sorted_Array": true,
-    "Algorithms\\Python/Squares_of_a_Sorted_Array": true
+    "Algorithms\\Python/Squares_of_a_Sorted_Array": true,
+    "Algorithms\\C++/Contains_Duplicate": true,
+    "Algorithms\\Python/Contains_Duplicate": true
   },
   "explorerExclude.backup": {}
 }
