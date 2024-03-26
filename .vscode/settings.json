@@ -184,7 +184,9 @@
     "Algorithms\\C++/Squares_of_a_Sorted_Array": true,
     "Algorithms\\Python/Squares_of_a_Sorted_Array": true,
     "Algorithms\\C++/Contains_Duplicate": true,
-    "Algorithms\\Python/Contains_Duplicate": true
+    "Algorithms\\Python/Contains_Duplicate": true,
+    "Algorithms\\C++/Find_All_Duplicates_in_an_Array": true,
+    "Algorithms\\Python/Find_All_Duplicates_in_an_Array": true
   },
   "explorerExclude.backup": {}
 }
