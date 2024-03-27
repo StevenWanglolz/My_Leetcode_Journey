@@ -14,6 +14,7 @@
 |----|----|----|----|----|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String|[Python](./Algorithms/Python/Valid_Parentheses/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
 |217|[Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/)|Hash Table|[Python](./Algorithms/Python/Contains_Duplicate/), [C++](./Algorithms/C++/Contains_Duplicate/)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|Hash Table, String|[Python](./Algorithms/Python/Valid_Anagram/), [C++](/Algorithms/C++/Valid_Anagram/)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|Two pointers|[Python](./Algorithms/Python/Reverse_String/), [C++](./Algorithms/C++/Reverse_String/j)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|Two pointers, hash tables|[Python](./Algorithms/Python/Intersection_of_Two_Arrays/), [C++](./Algorithms/C++/Intersection_of_Two_Arrays/)|Easy|
 |442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/?envType=daily-question&envId=2024-03-25)|Array, Hash Table|[Python](./Algorithms/Python/Find_All_Duplicates_in_an_Array/), [C++](./Algorithms/C++/Find_All_Duplicates_in_an_Array/)|Medium|
