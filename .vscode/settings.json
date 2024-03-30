@@ -188,7 +188,9 @@
     "Algorithms\\C++/Find_All_Duplicates_in_an_Array": true,
     "Algorithms\\Python/Find_All_Duplicates_in_an_Array": true,
     "Algorithms\\Python/Valid_Anagram": true,
-    "Algorithms\\C++/Valid_Anagram": true
+    "Algorithms\\C++/Valid_Anagram": true,
+    "Algorithms\\C++/Two_Sum": true,
+    "Algorithms\\Python/Two_Sum": true
   },
   "explorerExclude.backup": {}
 }

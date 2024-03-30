@@ -12,6 +12,7 @@
 
 |#|Title|Tags|Solution|Difficulty |
 |----|----|----|----|----|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|Hash Table|[Python](./Algorithms/Python/Two_Sum/), [C++](./Algorithms/C++/Two_Sum/)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String|[Python](./Algorithms/Python/Valid_Parentheses/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
 |217|[Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/)|Hash Table|[Python](./Algorithms/Python/Contains_Duplicate/), [C++](./Algorithms/C++/Contains_Duplicate/)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|Hash Table, String|[Python](./Algorithms/Python/Valid_Anagram/), [C++](/Algorithms/C++/Valid_Anagram/)|Easy|
