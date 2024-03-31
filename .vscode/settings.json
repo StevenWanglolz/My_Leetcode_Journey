@@ -190,9 +190,7 @@
     "Algorithms\\Python/Valid_Anagram": true,
     "Algorithms\\C++/Valid_Anagram": true,
     "Algorithms\\C++/Two_Sum": true,
-    "Algorithms\\Python/Two_Sum": true,
-    "Algorithms\\Python/Group_Anagrams": true,
-    "Algorithms\\C++/Group_Anagrams": true
+    "Algorithms\\Python/Two_Sum": true
   },
   "explorerExclude.backup": {}
 }

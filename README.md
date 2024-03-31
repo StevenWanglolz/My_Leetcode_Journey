@@ -14,7 +14,6 @@
 |----|----|----|----|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|Hash Table|[Python](./Algorithms/Python/Two_Sum/), [C++](./Algorithms/C++/Two_Sum/)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String|[Python](./Algorithms/Python/Valid_Parentheses/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|Hash Table, Sorting|[Python](./Algorithms/Python/Group_Anagrams/), [C++](./Algorithms/C++/Group_Anagrams/)|Medium|
 |217|[Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/)|Hash Table|[Python](./Algorithms/Python/Contains_Duplicate/), [C++](./Algorithms/C++/Contains_Duplicate/)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|Hash Table, String|[Python](./Algorithms/Python/Valid_Anagram/), [C++](/Algorithms/C++/Valid_Anagram/)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|Two pointers|[Python](./Algorithms/Python/Reverse_String/), [C++](./Algorithms/C++/Reverse_String/j)|Easy|
