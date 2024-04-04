@@ -14,6 +14,7 @@
 |----|----|----|----|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|Hash Table|[Python](./Algorithms/Python/Two_Sum/), [C++](./Algorithms/C++/Two_Sum/)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|String|[Python](./Algorithms/Python/Valid_Parentheses/), [C++](./Algorithms/C++/Valid_Parentheses/)|Easy|
+|356|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|Array, Hash table|[Python](./Algorithms/Python/Valid_Sudoku/), [C++](./Algorithms/C++/Valid_Sudoku/)/|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|Hash Table, Sorting|[Python](./Algorithms/Python/Group_Anagrams/), [C++](./Algorithms/C++/Group_Anagrams/)|Medium|
 |217|[Contains Duplicates](<https://leetcode.com/problems/>   ontains-duplicate/description/)|Hash Table|[Python](./Algorithms/Python/Contains_Duplicate/), [C++](./Algorithms/C++/Contains_Duplicate/)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|Array, Prefix sum|[Python](./Algorithms/Python/Product_of_Array_Except_Self/), [C++](./Algorithms/C++/Product_of_Array_Except_Self/)|Medium|
