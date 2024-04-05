@@ -45,7 +45,8 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "typeinfo": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "set": "cpp"
   },
   "files.exclude": {
     "**/.git": true,
@@ -198,7 +199,9 @@
     "Algorithms\\Python/Product_of_Array_Except_Self": true,
     "Algorithms\\C++/Product_of_Array_Except_Self": true,
     "Algorithms\\C++/Valid_Sudoku": true,
-    "Algorithms\\Python/Valid_Sudoku": true
+    "Algorithms\\Python/Valid_Sudoku": true,
+    "Algorithms\\C++/Longest_Consecutive_Sequence": true,
+    "Algorithms\\Python/Longest_Consecutive_Sequence": true
   },
   "explorerExclude.backup": {}
 }
