@@ -17,7 +17,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|Array, Hash table|[Python](./Algorithms/Python/Valid_Sudoku/), [C++](./Algorithms/C++/Valid_Sudoku/)/|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|Hash Table, Sorting|[Python](./Algorithms/Python/Group_Anagrams/), [C++](./Algorithms/C++/Group_Anagrams/)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Array, Hash table, Union find|[Python](./Algorithms/Python/Longest_Consecutive_Sequence/), [C++](./Algorithms/C++/Longest_Consecutive_Sequence/)|Medium|
-|217|[Contains Duplicates](<https://leetcode.com/problems/>(contains-duplicate/description/)|Hash Table|[Python](./Algorithms/Python/Contains_Duplicate/), [C++](./Algorithms/C++/Contains_Duplicate/)|Easy|
+|217|[Contains Duplicates](<https://leetcode.com/problems/>contains-duplicate/description/)|Hash Table|[Python](./Algorithms/Python/Contains_Duplicate/), [C++](./Algorithms/C++/Contains_Duplicate/)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|Array, Prefix sum|[Python](./Algorithms/Python/Product_of_Array_Except_Self/), [C++](./Algorithms/C++/Product_of_Array_Except_Self/)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|Hash Table, String|[Python](./Algorithms/Python/Valid_Anagram/), [C++](/Algorithms/C++/Valid_Anagram/)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|Two pointers|[Python](./Algorithms/Python/Reverse_String/), [C++](./Algorithms/C++/Reverse_String/j)|Easy|
